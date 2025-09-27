@@ -1,4 +1,4 @@
-baseURL = "https://blog.yimoonmusic.com/"  # 依你的情況改成最終網址
+baseURL = "https://blog.yimoonmusic.com/"
 title = "我的個人部落格"
 theme = "PaperMod"
 languageCode = "zh-tw"
