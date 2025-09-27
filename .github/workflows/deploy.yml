@@ -21,19 +21,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true      # 重要：抓到 PaperMod
+          submodules: true      # 必須：抓到 PaperMod 子模組
           fetch-depth: 0
+
       - name: Setup Hugo
         uses: actions/setup-hugo@v3
         with:
-          hugo-version: '0.132.2'
-          extended: true
+          extended: true        # 必須：PaperMod 需要 extended
+          # 不指定版本也行；要固定就填：hugo-version: '0.150.1'
+
       - name: Build
-        run: hugo --minify
+        run: hugo --minify -b "https://blog.yimoonmusic.com/"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./public        # 這個資料夾一定要對
 
   deploy:
     needs: build
