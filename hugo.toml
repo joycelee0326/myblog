@@ -11,9 +11,6 @@ timeZone = "Asia/Taipei"
   posts = "/posts/:slug/"
 
 enableGitInfo = true
-[params]
-  ShowReadingTime = true
-  ShowLastMod = true
 
 # （可選）若你暫時用 Project Pages 又常忘了在 baseURL 加 /repo/，這兩行能減少 404
 relativeURLs = true
@@ -25,6 +22,8 @@ canonifyURLs = true
   ShowPostNavLinks = true         # 上/下一篇
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  ShowReadingTime = true
+  ShowLastMod = true
 
 [markup.goldmark.renderer]
   unsafe = true                   # 允許文章內嵌少量 HTML
