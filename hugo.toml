@@ -1,3 +1,26 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://blog.yimoonmusic.com/"  # 依你的情況改成最終網址
+title = "我的個人部落格"
+theme = "PaperMod"
+languageCode = "zh-tw"
+[pagination]
+  pagerSize = 10
+
+enableRobotsTXT = true
+
+# （可選）若你暫時用 Project Pages 又常忘了在 baseURL 加 /repo/，這兩行能減少 404
+# relativeURLs = true
+# canonifyURLs = true
+
+[params]
+  defaultTheme = "auto"           # 自動深/淺色
+  ShowReadingTime = true          # 顯示閱讀時間
+  ShowPostNavLinks = true         # 上/下一篇
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[markup.goldmark.renderer]
+  unsafe = true                   # 允許文章內嵌少量 HTML
+
+# 讓首頁同時輸出 RSS/JSON（之後要加搜尋或 RSS 會用到）
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
