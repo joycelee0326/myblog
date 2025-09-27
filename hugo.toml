@@ -1,15 +1,23 @@
 baseURL = "https://blog.yimoonmusic.com/"
-title = "我的個人部落格"
+title = "Lyra的個人部落格"
 theme = "PaperMod"
 languageCode = "zh-tw"
 [pagination]
   pagerSize = 10
 
 enableRobotsTXT = true
+timeZone = "Asia/Taipei"
+[permalinks]
+  posts = "/posts/:slug/"
+
+enableGitInfo = true
+[params]
+  ShowReadingTime = true
+  ShowLastMod = true
 
 # （可選）若你暫時用 Project Pages 又常忘了在 baseURL 加 /repo/，這兩行能減少 404
-# relativeURLs = true
-# canonifyURLs = true
+relativeURLs = true
+canonifyURLs = true
 
 [params]
   defaultTheme = "auto"           # 自動深/淺色
