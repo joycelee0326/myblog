@@ -13,8 +13,8 @@ timeZone = "Asia/Taipei"
 enableGitInfo = true
 
 # （可選）若你暫時用 Project Pages 又常忘了在 baseURL 加 /repo/，這兩行能減少 404
-relativeURLs = true
-canonifyURLs = true
+#relativeURLs = true
+#canonifyURLs = true
 
 [params]
   defaultTheme = "auto"           # 自動深/淺色
