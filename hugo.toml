@@ -22,7 +22,6 @@ canonifyURLs = true
   ShowPostNavLinks = true         # 上/下一篇
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  ShowReadingTime = true
   ShowLastMod = true
 
 [markup.goldmark.renderer]
