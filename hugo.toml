@@ -30,3 +30,24 @@ timeZone = "Asia/Taipei"
 # 讓首頁同時輸出 RSS/JSON（之後要加搜尋或 RSS 會用到）
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "now"
+    name = "近況"
+    url = "/now/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "關於"
+    url = "/about/"
+    weight = 3
+
