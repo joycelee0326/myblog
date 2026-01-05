@@ -1,4 +1,4 @@
-baseURL = "https://blog.yimoonmusic.com/"
+baseURL = "https://yimoon.blog/"
 title = "Lyra的個人部落格"
 theme = "PaperMod"
 languageCode = "zh-tw"
