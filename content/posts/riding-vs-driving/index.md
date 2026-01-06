@@ -2,9 +2,9 @@
 title: "開車與騎車:兩種輪子上的自由"
 date: 2026-01-06T11:07:58+08:00
 draft: false
-tags: ["隨筆", "開站"]
+tags: ["隨筆", "旅行", "自由"]
 categories: ["部落格"]
-summery: "透過名為「我」的玻璃窗看世界，在這裡做為最真實的自己說話"
+summery: "關於速度、自由與掌控感的公路筆記"
 ShowToc: true
 TocOpen: true
 # 可選：固定網址（避免中文網址被編碼）
