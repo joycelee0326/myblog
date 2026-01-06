@@ -1,12 +1,12 @@
 ---
-title: '{{ replace .Name "-" " " | title }}'
-date: {{ .Date }}
+title: "Riff Bar"
+date: 2026-01-06T17:54:34+08:00
 draft: true
+description: ""
 tags: []
 categories: []
-slug: "{{ .Name }}"
+slug: "riff-bar"
 ShowToc: true
 TocOpen: false
-summary: ""
 ---
 在這裡開始寫。
