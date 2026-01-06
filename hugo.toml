@@ -2,6 +2,7 @@ baseURL = "https://yimoon.blog/"
 title = "Lyra的個人部落格"
 theme = "PaperMod"
 languageCode = "zh-tw"
+hasCJKLanguage = true
 [pagination]
   pagerSize = 10
 
@@ -23,6 +24,7 @@ timeZone = "Asia/Taipei"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowLastMod = true
+  ShowWordCount = true
 
 [markup.goldmark.renderer]
   unsafe = true                   # 允許文章內嵌少量 HTML
