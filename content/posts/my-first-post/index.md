@@ -6,7 +6,7 @@ tags: ["隨筆", "開站"]
 categories: ["部落格"]
 summary: "透過名為「我」的玻璃窗看世界，在這裡做為最真實的自己說話"
 ShowToc: true
-TocOpen: true
+TocOpen: false
 # 可選：固定網址（避免中文網址被編碼）
 slug: "first-post"
 ---

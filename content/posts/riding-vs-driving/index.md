@@ -6,7 +6,7 @@ tags: ["隨筆", "旅行", "自由"]
 categories: ["部落格"]
 summary: "關於速度、自由與掌控感的公路筆記"
 ShowToc: true
-TocOpen: true
+TocOpen: false
 # 可選：固定網址（避免中文網址被編碼）
 slug: "riding-vs-driving"
 ---
