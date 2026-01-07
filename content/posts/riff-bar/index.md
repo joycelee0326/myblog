@@ -1,13 +1,13 @@
 ---
 title: "Riff Bar：重機店樓上的爵士夜"
-date: 2026-01-06T17:54:34+08:00
-draft: true
-description: ""
-tags: []
-categories: []
-slug: "riff-bar"
+date: 2026-01-07T17:54:34+08:00
+draft: false
+tags: ["爵士", "音樂", "表演"]
+categories: ["部落格"]
+summary: "從一場 Piano Trio 加電吉他的contemporary jazz 現場裡，聽見流行與爵士碰撞出的火花。"
 ShowToc: true
 TocOpen: false
+slug: "riff-bar"
 ---
 <!--more-->
 因著樂團排練時間的安排，我剛好有個晚上得滯留在台北。晚上不僅沒有揚琴可以練，連我的 MIDI 鍵盤都遠在64公里以外。雖然只是一晚，但我不希望這是一個只有手機螢幕的無聊夜晚，於是決定找找有沒有表演可以看。
