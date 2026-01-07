@@ -4,7 +4,7 @@ date: 2025-09-27T14:35:00+08:00
 draft: false
 tags: ["隨筆", "開站"]
 categories: ["部落格"]
-summery: "透過名為「我」的玻璃窗看世界，在這裡做為最真實的自己說話"
+summary: "透過名為「我」的玻璃窗看世界，在這裡做為最真實的自己說話"
 ShowToc: true
 TocOpen: true
 # 可選：固定網址（避免中文網址被編碼）
