@@ -4,7 +4,7 @@ date: 2026-01-07T07:54:34+08:00
 draft: false
 tags: ["爵士", "音樂", "表演"]
 categories: ["部落格"]
-summary: "從一場 Piano Trio 加電吉他的contemporary jazz 現場裡，聽見流行與爵士碰撞出的火花。"
+summary: "從一場 Piano Trio 加電吉他的 contemporary jazz 現場裡，聽見流行與爵士碰撞出的火花。"
 ShowToc: true
 TocOpen: false
 slug: "riff-bar"
