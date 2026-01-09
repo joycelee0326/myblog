@@ -47,6 +47,10 @@ timeZone = "Asia/Taipei"
   [[params.socialIcons]]
     name = "Rss"
     url = "/index.xml"
+  
+  [[params.socialIcons]]
+    name = "Email"
+    url = "mailto:Lyra.music.studio@protonmail.com"
 
 [markup.goldmark.renderer]
   unsafe = true                   # 允許文章內嵌少量 HTML
