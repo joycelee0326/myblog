@@ -1,5 +1,5 @@
 baseURL = "https://yimoon.blog/"
-title = "Lyra的個人部落格"
+title = "Yimoon的個人部落格"
 theme = "PaperMod"
 languageCode = "zh-tw"
 hasCJKLanguage = true
@@ -27,7 +27,7 @@ timeZone = "Asia/Taipei"
   ShowWordCount = true
   [params.profileMode]
     enabled = true
-    title = "Lyra's blog"
+    title = "Yimoon's blog"
     subtitle = "紀錄有關音樂和生活的碎片  "
     imageUrl = "/images/119A3096.jpg"
     imageTitle = "我的大頭貼"
