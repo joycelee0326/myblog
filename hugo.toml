@@ -25,6 +25,21 @@ timeZone = "Asia/Taipei"
   ShowCodeCopyButtons = true
   ShowLastMod = true
   ShowWordCount = true
+  [params.profileMode]
+    enabled = true
+    title = "你好，我是 Lyra"
+    subtitle = "這是我的個人網站，歡迎來到這裡。"
+    imageUrl = "/images/119A3096.jpg"
+    imageTitle = "我的大頭貼"
+    imageWidth = 120
+    imageHeight = 120
+  [[params.profileMode.buttons]]
+    name = "我的文章"
+    url = "/posts/riff-bar"
+
+    [[params.profileMode.buttons]]
+    name = "關於我"
+    url = "/about"
 
 [markup.goldmark.renderer]
   unsafe = true                   # 允許文章內嵌少量 HTML
