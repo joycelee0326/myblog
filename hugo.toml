@@ -1,5 +1,5 @@
 baseURL = "https://yimoon.blog/"
-title = "Yimoon的個人部落格"
+title = "Yimoon 的個人部落格"
 theme = "PaperMod"
 languageCode = "zh-tw"
 hasCJKLanguage = true
