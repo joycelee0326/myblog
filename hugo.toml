@@ -3,6 +3,7 @@ title = "Yimoon 的個人部落格"
 theme = "PaperMod"
 languageCode = "zh-tw"
 hasCJKLanguage = true
+copyright = "© 2025-2026 [Yimoon 的部落格](https://yimoon.blog/)"
 [pagination]
   pagerSize = 10
 
@@ -25,6 +26,7 @@ timeZone = "Asia/Taipei"
   ShowCodeCopyButtons = true
   ShowLastMod = true
   ShowWordCount = true
+  since = 2025
   [params.profileMode]
     enabled = true
     title = "Yimoon's blog"
