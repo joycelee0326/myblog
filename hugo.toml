@@ -50,7 +50,7 @@ timeZone = "Asia/Taipei"
   
   [[params.socialIcons]]
     name = "Email"
-    url = "mailto:Lyra.music.studio@protonmail.com"
+    url = "mailto:yimoon.blog@proton.me"
 
 [markup.goldmark.renderer]
   unsafe = true                   # 允許文章內嵌少量 HTML
