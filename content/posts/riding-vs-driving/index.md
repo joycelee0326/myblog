@@ -2,7 +2,7 @@
 title: "開車與騎車：兩種輪子上的自由"
 date: 2026-01-06T11:07:58+08:00
 draft: false
-tags: ["隨筆", "旅行", "自由"]
+tags: ["隨筆", "駕駛日常", "自由"]
 categories: ["部落格"]
 summary: "關於速度、自由與掌控感的公路筆記"
 ShowToc: true
