@@ -27,6 +27,12 @@ timeZone = "Asia/Taipei"
   ShowLastMod = true
   ShowWordCount = true
   since = 2025
+  [params.assets]
+    favicon = "favicon.png"         # 對應到 static 資料夾內的檔名
+    favicon16x16 = "favicon.png"    # 選填，可都指到同一張
+    favicon32x32 = "favicon.png"    # 選填
+    apple_touch_icon = "favicon.png" # 這是給 iPhone 加入主畫面用的圖示
+    
   [params.profileMode]
     enabled = true
     title = "Yimoon's blog"
