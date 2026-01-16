@@ -1,7 +1,7 @@
 ---
 title: '【練琴日記】Blue Bossa 練習筆記'
 date: 2026-01-17T00:05:42+08:00
-draft: true
+draft: false
 tags: ["練琴日記", "爵士", "鋼琴", "音樂"]
 categories: ["部落格"]
 slug: "jazz-study-blue-bossa"
