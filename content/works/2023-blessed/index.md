@@ -3,7 +3,7 @@ title: "【演出紀錄】2023 Blessed 揚琴獨奏會"
 date: 2026-01-17
 summary: "整理了當年的演出影片，重新審視那時對曲目的詮釋，以及那個青澀又勇敢的高三生..."
 cover:
-    image: "/images/2023-recital-stage.jpg" 
+    image: "/images/2023-recital-stage.JPG" 
     alt: "演出側拍"
     caption: "彩排時從舞台望向觀眾席的視角"
     relative: false
