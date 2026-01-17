@@ -86,4 +86,11 @@ timeZone = "Asia/Taipei"
     name = "關於"
     url = "/about/"
     weight = 3
+  
+  [[menu.main]]
+    identifier = "works"
+    name = "作品集"
+    url = "/works/"
+    weight = 4
+
 
