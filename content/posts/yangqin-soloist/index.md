@@ -2,8 +2,8 @@
 title: '從模仿到著迷：王玉珏與我的音樂人生'
 date: 2026-01-20T22:24:17+08:00
 draft: false
-tags: []
-categories: []
+tags: ["揚琴", "音樂"]
+categories: ["部落格"]
 slug: "yangqin-soloist"
 ShowToc: true
 TocOpen: false
