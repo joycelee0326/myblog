@@ -26,6 +26,7 @@ timeZone = "Asia/Taipei"
   ShowCodeCopyButtons = true
   ShowLastMod = true
   ShowWordCount = true
+  rssFullContent = true
   since = 2025
   [params.assets]
     favicon = "favicon.png"         # 對應到 static 資料夾內的檔名
@@ -66,6 +67,10 @@ timeZone = "Asia/Taipei"
 # 讓首頁同時輸出 RSS/JSON（之後要加搜尋或 RSS 會用到）
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[services]
+  [services.rss]
+    limit = -1 # 選擇性：-1 代表不限制 RSS 輸出的文章數量，預設是 15 篇
 
 [menu]
 
