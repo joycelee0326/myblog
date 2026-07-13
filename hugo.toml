@@ -1,7 +1,7 @@
 baseURL = "https://yimoon.blog/"
 title = "Yimoon 的個人部落格"
 theme = "PaperMod"
-languageCode = "zh-tw"
+locale = "zh-TW"
 hasCJKLanguage = true
 copyright = "© 2025-2026 [Yimoon 的部落格](https://yimoon.blog/)"
 [pagination]
