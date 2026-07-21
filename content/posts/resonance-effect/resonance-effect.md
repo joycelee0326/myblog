@@ -1,7 +1,7 @@
 ---
 title: '在共振裡照見自我：共振效應專場觀後感'
 date: 2026-07-12T21:58:53+08:00
-draft: true
+draft: false
 tags: ["共振效應", "音樂", "觀演紀錄"]
 categories: ["部落格"]
 slug: "resonance-effect"
